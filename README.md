@@ -29,4 +29,4 @@ There is no end to learning; one chapter unveils the next. It's endless.
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=jayvadgama
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayvadgama)](https://git.io/streak-stats)
