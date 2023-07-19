@@ -27,6 +27,5 @@ There is no end to learning; one chapter unveils the next. It's endless.
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jayvadgama)](https://git.io/streak-stats)
+### 🔥: My stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadgama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
