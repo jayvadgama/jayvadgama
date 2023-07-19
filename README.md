@@ -1,7 +1,5 @@
+Hi there👋, I'm Jay!
 ---
-
-###: Hi there👋, I'm Jay!
-
 I believe in clean code, strong coffee, and constant learning.
 There is no end to learning; one chapter unveils the next. It's endless.
 
