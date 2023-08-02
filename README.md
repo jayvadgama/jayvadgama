@@ -40,5 +40,5 @@ There is no end to learning; one chapter unveils the next. It's endless.
 </div>
 
 ---
-### 🔥: My stats :
+### 🔥 My stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayvadgama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
