@@ -1,4 +1,6 @@
-Hi there👋, I'm Jay!
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">. I am Jay</h1>
 ---
 I believe in clean code, strong coffee, and constant learning.
 There is no end to learning; one chapter unveils the next. It's endless.
