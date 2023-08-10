@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on something cool!
 - 🌱 UI/UX Designer
-- 👯 I’m looking to collaborate on Android-based mobile apps as well as web applications.
+- 🤝 I’m looking to collaborate on Android-based mobile apps as well as web applications.
 - 🌿 I love hiking and photography
 
 ---
 
-### :hammer_and_wrench: Tech Stack:
+### :man_technologist: Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
