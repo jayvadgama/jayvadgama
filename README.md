@@ -4,7 +4,7 @@
 <p align="left" width="150px">I believe in clean code, strong coffee, and constant learning</p>
 
 - 🔭 I’m currently working on something cool!
-- 🌱 UI/UX Designer
+- 🌱 DevOps | UI/UX Designer
 - 🤝 I’m looking to collaborate on Android-based mobile apps as well as web applications.
 - 🌿 I love hiking and photography
 
