@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on something cool!
 - 🌱 DevOps | UI/UX Designer
-- 🤝 I’m looking to collaborate on web/mobile based applications.
+- 🤝 I’m looking to collaborate on web and mobile-based applications.
 - 🌿 I love hiking and photography
 
 ---
